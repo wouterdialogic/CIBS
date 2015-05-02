@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CodeIgniter Bootstrap
 
 Bundles the following packages together.
@@ -41,3 +42,7 @@ Check out the [Wiki](https://github.com/sjlu/CodeIgniter-Bootstrap/wiki) for inf
 ## License
 
 MIT with [CodeIgniter Amendments](http://codeigniter.com/user_guide/license.html)
+=======
+# CIBS
+CodeIgniter and Bootstrap startup template
+>>>>>>> de8b69b6451eb25c15b2a5aef1f0a97e48402135
